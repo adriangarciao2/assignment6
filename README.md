@@ -1,5 +1,7 @@
 # Adrian Garcia SE333 Assignment 6
 
+Link to repo - https://github.com/adriangarciao2/assignment6
+
 Using Playwright manually for the first time was a learning process. Since I had never used it before, I relied a lot on
 trial and error to understand how to navigate the browser, locate elements, and write proper assertions in Java. Once 
 I got used to it, it felt pretty simple and straightforward, but it was also time-consuming. Every step needed to be 
